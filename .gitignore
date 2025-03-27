@@ -30,4 +30,4 @@ Homestead.json
 auth.json
 
 # venv
-/venv
+venv/
